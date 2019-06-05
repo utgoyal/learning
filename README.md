@@ -1,0 +1,1 @@
+A file that contains all the notes that i will be learning in the next month
