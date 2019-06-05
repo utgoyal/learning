@@ -1,0 +1,9 @@
+This file will contain all the tricky concepts that i will encounter during this project.
+
+1. Globbing(git):Special characters to match patterns(To read more on this concept)
+a) Blank lines for spacing
+b)* : matches zero or more characters
+c)# : makes line as comment
+d)? : matches one character
+
+

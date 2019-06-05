@@ -1,0 +1,11 @@
+2.Git revert/reset
+a)reverts the changes made by a commit referenced by its SHA
+b)Refrencing commits:
+HEAD^ HEAD~1 reference to the parent commit
+HEAD^^ HEAD~2 reference to the grandparent commit
+HEAD^^^2 : reference to the second great grand parent commit
+c)git reset: moves the pointer of the HEAD to point to the commit referenced
+d)flags: 
+--mixed moves commit to the working directory
+--soft moves commit to the staging area
+--hard deletes commits and moves them to trash
